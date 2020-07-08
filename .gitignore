@@ -1,0 +1,4 @@
+.ionide/
+.vscode/
+bin
+obj
